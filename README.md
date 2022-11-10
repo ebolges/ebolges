@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ebolges
 - 👀 I’m interested in linux, cloud, scripting, python and others codes
-- 🌱 I’m currently learning about live
+- 🌱 I’m currently learning about life
 - 💞️ I’m looking to collaborate on all but on special linux and scripting 
 - 📫 How to reach me https://ebolges.com/
 
